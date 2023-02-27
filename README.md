@@ -1,1 +1,2 @@
 # myproject
+print"hello word"
